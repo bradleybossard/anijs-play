@@ -1,0 +1,10 @@
+{
+  "name": "anijs-play",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0",
+    "anijs": "~0.3.0"
+  },
+  "devDependencies": {}
+}
